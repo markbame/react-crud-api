@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter App List component renders consistently with various inputs 1`] = `
+<div
+  className="segment"
+>
+  <div
+    className="delete"
+    onClick={[Function]}
+  >
+    x
+  </div>
+  <div>
+    big daddy
+  </div>
+  <div
+    className="action"
+  >
+    <span
+      onClick={[Function]}
+    >
+      -
+    </span>
+    <span>
+      4
+    </span>
+    <span
+      onClick={[Function]}
+    >
+      +
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Counter App List component renders consistently with various inputs 2`] = `
+<div
+  className="segment"
+>
+  <div
+    className="delete"
+    onClick={[Function]}
+  >
+    x
+  </div>
+  <div>
+    big
+  </div>
+  <div
+    className="action"
+  >
+    <span
+      onClick={[Function]}
+    >
+      -
+    </span>
+    <span>
+      0
+    </span>
+    <span
+      onClick={[Function]}
+    >
+      +
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Counter App List component renders consistently with various inputs 3`] = `
+<div
+  className="segment"
+>
+  <div
+    className="delete"
+    onClick={[Function]}
+  >
+    x
+  </div>
+  <div>
+    daddy
+  </div>
+  <div
+    className="action"
+  >
+    <span
+      onClick={[Function]}
+    >
+      -
+    </span>
+    <span>
+      -1
+    </span>
+    <span
+      onClick={[Function]}
+    >
+      +
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Counter App List component renders consistently with various inputs 4`] = `
+<div
+  className="segment"
+>
+  <div
+    className="delete"
+    onClick={[Function]}
+  >
+    x
+  </div>
+  <div>
+    111
+  </div>
+  <div
+    className="action"
+  >
+    <span
+      onClick={[Function]}
+    >
+      -
+    </span>
+    <span>
+      300
+    </span>
+    <span
+      onClick={[Function]}
+    >
+      +
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Counter App List component renders consistently with various inputs 5`] = `
+<div
+  className="segment"
+>
+  <div
+    className="delete"
+    onClick={[Function]}
+  >
+    x
+  </div>
+  <div>
+    1test name
+  </div>
+  <div
+    className="action"
+  >
+    <span
+      onClick={[Function]}
+    >
+      -
+    </span>
+    <span>
+      1111
+    </span>
+    <span
+      onClick={[Function]}
+    >
+      +
+    </span>
+  </div>
+</div>
+`;

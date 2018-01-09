@@ -1,0 +1,47 @@
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.counterBox {
+	background:#dadada;
+	width: 480px;
+}
+
+.title {
+	color:#222222;
+	text-align:center;
+}
+
+.group {
+	display: flex;
+	flex-direction: column;
+	padding:5px;
+	margin-bottom: 5px;
+	border:1px dashed #222;
+}
+
+.segment {
+	display: flex;
+	justify-content: space-between;
+}
+
+.segment>div,.segment>span {
+	padding: 5px;
+	font-weight: bold;
+	font-size: 22px;
+	flex-basis: auto;
+}
+
+.action {
+	margin-left: auto;
+  order: 2;
+	cursor:pointer
+}
+.action>span {
+ padding:0 5px;
+}
+
+.delete {
+	cursor:pointer
+}
